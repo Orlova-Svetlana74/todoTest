@@ -1,6 +1,7 @@
 import './App.css';
 import {TodoList } from './components/todo-list';
 import { AddTodo } from "./components/add-todo";
+// коментарии
 
 function App() {
   return (

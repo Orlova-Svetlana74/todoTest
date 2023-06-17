@@ -4,7 +4,8 @@ const initialState = {
   allIds: [],
   byIds: {},
 };
-// в переменной initialState хранится начальное состояние todo логики
+
+// в переменной initialState хранится начальное состояние логики 
 
 export default function todoReducer(state = initialState, action) {
   //todoReducer

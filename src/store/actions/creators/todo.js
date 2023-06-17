@@ -1,5 +1,5 @@
 import { ADD_TODO, TOGGLE_TODO, DELETE_TODO } from '../types/todo';
-
+// коментарии
 let nextTodoId = 0;
 
 export const addTodo = (content) => ({

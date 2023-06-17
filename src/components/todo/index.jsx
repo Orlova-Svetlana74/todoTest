@@ -1,7 +1,7 @@
 import React from 'react';
 import { useDispatch } from 'react-redux';
 import cx from 'classnames';
-
+// коментарии
 import { toggleTodo, deleteTodo } from '../../store/actions/creators/todo';
 
 import styles from './index.module.css';

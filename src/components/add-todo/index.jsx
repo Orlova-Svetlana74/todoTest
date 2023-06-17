@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { addTodo } from '../../store/actions/creators/todo';
-
+// коментарии
 import styles from './index.module.css';
 
 export const AddTodo = () => {

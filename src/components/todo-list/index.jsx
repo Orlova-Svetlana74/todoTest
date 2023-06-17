@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useSelector } from 'react-redux';
 import { todosSelector } from '../../store/selectors/todo';
 import { Todo } from '../todo';
-
+// коментарии
 import styles from './index.module.css';
 
 export const TodoList = () => {
